@@ -1,0 +1,1 @@
+tube un error pero lo solucione , aprendi que al colocar :q! fuerza al editor a salir de pantalla sin guardar
