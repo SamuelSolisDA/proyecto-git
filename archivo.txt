@@ -1,1 +1,2 @@
 Hola, mundo de Git!
+agregando otra linea desde el segundo equipo.
